@@ -1,0 +1,15 @@
+{
+  "name": "fibonacci-calc",
+  "version": "1.0.0",
+  "description": "Fibonacci calculator",
+  "main": "index.js",
+  "keywords": [
+    "fibonacci"
+  ],
+  "author": "Mostafa Milani Amin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fibonacci-calc": "^1.0.0"
+  }
+}
